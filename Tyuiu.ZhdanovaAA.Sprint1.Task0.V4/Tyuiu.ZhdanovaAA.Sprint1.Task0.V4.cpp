@@ -17,4 +17,5 @@ int main()
     cout << "¬ведите третье число: ";
     cin >> num_3;
     cout << "—реднее значение введенных чисел равно " << rezalt->Rezalt(num_1, num_2, num_3) << endl;
+
 }

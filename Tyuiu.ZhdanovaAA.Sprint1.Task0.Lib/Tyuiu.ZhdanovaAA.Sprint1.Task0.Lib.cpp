@@ -37,4 +37,5 @@ class Rezalt5 :public ISprint1Task0V01
 	{
 		return (num_1 + num_2 + num_3) / 3.0f;
 	}
+
 };

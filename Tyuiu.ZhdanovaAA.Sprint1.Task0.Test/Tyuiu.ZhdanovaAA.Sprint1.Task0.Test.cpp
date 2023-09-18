@@ -9,7 +9,7 @@ namespace UnitTest10
 	TEST_CLASS(UnitTest10)
 	{
 	public:
-		
+
 		TEST_METHOD(TestMethod1)
 		{
 			//Unit
@@ -58,4 +58,5 @@ namespace UnitTest10
 			Assert::AreEqual(4.0f, total);
 		}
 	};
+
 }

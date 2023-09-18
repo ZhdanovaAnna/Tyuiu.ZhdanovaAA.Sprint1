@@ -17,5 +17,4 @@ int main()
     cout << "Введите высоту параллелепипеда: ";
     cin >> height;
     cout << "Объем параллелепипеда равен " << rezalt->Rezalt(lenght, width, height) << endl;
-
 }

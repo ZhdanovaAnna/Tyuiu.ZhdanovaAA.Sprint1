@@ -18,4 +18,3 @@ int main()
 	cin >> height;
 	cout << "Площадь боковой поверхности параллелепипеда равна " << rezalt->Rezalt(lenght, width, height) << endl;
 }
-

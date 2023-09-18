@@ -15,4 +15,5 @@ int main()
 	cout << "¬ведите второе число: ";
 	cin >> num_2;
 	cout << "—умма квадратов введенных чисел равна " << calculate->Calculate(num_1, num_2) << endl;
+
 }
