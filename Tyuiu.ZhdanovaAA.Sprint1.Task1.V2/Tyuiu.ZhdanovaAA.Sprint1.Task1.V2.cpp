@@ -19,5 +19,5 @@ int main()
 	if ((logic->Logic(num)) == false)
 	{
 		cout << "Число " << num << " является нечетным" << endl;
-	}
+	} 
 }

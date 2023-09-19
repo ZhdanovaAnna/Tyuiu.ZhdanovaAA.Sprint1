@@ -21,5 +21,5 @@ namespace UnitTest11
 			//Valid 
 			Assert::AreEqual(false, n);
 		}
-	};
+	}; 
 }

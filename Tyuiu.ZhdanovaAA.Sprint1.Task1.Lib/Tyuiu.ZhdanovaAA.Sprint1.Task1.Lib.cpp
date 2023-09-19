@@ -18,5 +18,5 @@ class Logic3 :public ISprint1Task1
 		{
 			return false;
 		}
-	}
+	} 
 };
